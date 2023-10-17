@@ -23,7 +23,7 @@ We strive to keep a good accountability of all of the version changes that we ma
 
 - added new chart components
 - enable or disable styles via the Flowbite Plugin
-- addded new API option to the dropdowns to prevent closing when clicking on certain elements
+- added new API option to the dropdowns to prevent closing when clicking on certain elements
 - small bug fixes and improvements overall
 
 ### 1.7.0
