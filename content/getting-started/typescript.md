@@ -20,7 +20,7 @@ This guide will teach you how to set up Tailwind CSS and the Flowbite library wi
 
 ## Create a new project
 
-Follow the next steps to learn how to install TypeScript and Tailwind CSS in a local project. Before continuning make sure that you have Node.js installed locally on your computer.
+Follow the next steps to learn how to install TypeScript and Tailwind CSS in a local project. Before continuing make sure that you have Node.js installed locally on your computer.
 
 1. Create a new project and run the following command to create a `package.json` file in the root folder:
 
