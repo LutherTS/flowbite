@@ -324,7 +324,7 @@ Learn how to <a href="{{< ref "getting-started/angular" >}}">install Tailwind CS
 
 ## Ruby on Rails
 
-If you're using a Ruby on Rails project you can install Tailwind CSS with Flowbite and start building web pages using the utility-first classes and the interactive UI compnonents from Flowbite.
+If you're using a Ruby on Rails project you can install Tailwind CSS with Flowbite and start building web pages using the utility-first classes and the interactive UI components from Flowbite.
 
 Learn how to <a href="{{< ref "getting-started/rails" >}}">install Tailwind CSS and Flowbite with Ruby on Rails</a>.
 
